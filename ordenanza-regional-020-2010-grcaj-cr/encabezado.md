@@ -1,0 +1,27 @@
+ORDENANZA REGIONAL
+Nº 020-2010-GRCAJ-CR
+EL PRESIDENTE DEL GOBIERNO REGIONAL CAJAMARCA
+POR CUANTO:
+EL CONSEJO REGIONAL CAJAMARCA
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+- Que, el artículo 191º de la Constitución Política del Estado, concordante con el artículo 2º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que los Gobiernos Regionales que emanan de la voluntad popular son personas jurídicas de derecho público, con autonomía política, económica y administrativa en asuntos de su competencia, constituyendo para su administración económica y financiera un pliego presupuestal;
+- Que, el artículo 9º, inciso 9.2 de la Ley Nº 27783, Ley de Bases de la Descentralización, establece que la autonomía administrativa es la facultad de organizarse internamente, determinar y reglamentar los servicios públicos de su responsabilidad;
+- Que, el literal a) del artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales señala que es atribución del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+- Que, el artículo 45º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que las funciones generales de los Gobiernos Regionales se ejercerán con sujeción al ordenamiento jurídico establecido por la Constitución Política del Perú, la Ley de Bases de Descentralización y demás Leyes de la República; y el literal a) del artículo acotado señala que es función normativa y reguladora del Gobierno Regional la elaboración y aprobación de normas de alcance regional, regulando los servicios de su competencia en concordancia con los literales a) y b) del artículo 4º de la Ley Nº 27902, Ley que modifica la Ley Orgánica de Gobiernos Regionales;
+- Que el Decreto Supremo Nº 043-2004-PCM aprueba los Lineamientos para la elaboración y aprobación del Cuadro para Asignación de Personal CAP de las Entidades de la Administración Pública”; tiene por finalidad generar la aprobación de un CAP que contenga una correcta definición de los cargos, acorde con la estructura orgánica de la Entidad y con los criterios de diseño y estructura de la Administración Publica que establece la Ley Nº 27658 Ley Marco de Modernización de la Gestión del Estado con el objetivo de priorizar y optimizar el uso de los recursos públicos;
+- Que, el Cuadro para Asignación de Personal CAP es un documento de gestión institucional que contiene los cargos definidos y aprobados de la entidad, sobre la base de la estructura orgánica prevista en el ROF de la Dirección Regional de Agricultura Cajamarca, y cuya modificación deberá efectuarse en tanto se la asunción de las funciones transferidas implica modificación del ROF de esta entidad;
+- Que la Sub Gerencia de Desarrollo Institucional de la Gerencia de Planeamiento, Presupuesto y Acondicionamiento Territorial ha elaborado el respectivo Informe Técnico Sustentatorio Nº 36-2010-GR.CAJ-GRPPAT/SGDI, elevado mediante Oficio Nº 1540-2010-GR.CAJ-GRPPAT, requisito para la aprobación del CAP, de acuerdo a lo establecido en el artículo 14º del Decreto Supremo Nº043-2004-PCM; contándose además con la informe favorable de la Dirección Regional de Asesoría Jurídica emitido mediante Informe Nº 104-2010-GR.CAJ/ DRAJ;
+- Que, mediante Dictamen Nº 002-2010-GR.CAJ-CR/ COAJ-CODE, evacuado por las Comisiones Ordinarias de Asuntos Jurídicos y Desarrollo Económico, de fecha 30 de noviembre del año 2010, se emite opinión favorable para la aprobación del Proyecto Ordenanza Regional que aprueba el Cuadro para Asignación de Personal - CAP de la Dirección Regional de Agricultura de Cajamarca, por las argumentos expuestos en el mismo y en los considerandos precedentes;
+Estando a lo acordado por el Pleno del Consejo Regional del Gobierno Regional de Cajamarca en su Sesión Ordinaria de fecha 03 de diciembre del año 2010; y a las atribuciones conferidas por la Ley de Bases de la Descentralización Nº 27783; Ley Orgánica de Gobiernos Regionales Nº 27867, modificada por las Leyes Nºs. 27902, 28013, 28961, 28968 y 29053; Reglamento Interno del Consejo del Gobierno Regional de Cajamarca, aprobado mediante Ordenanza Regional Nº 004-2008-GRCAJ-CR, con el voto unánime el Pleno aprobó la siguiente:
+ORDENANZA REGIONAL
+Primero.- APROBAR el Cuadro para Asignación de Personal - CAP de la Dirección Regional de Agricultura Cajamarca el mismo que en cinco (05) folios, debidamente visados forma parte de la presente ordenanza regional.
+Segundo.- ENCARGAR al Órgano Ejecutivo del Gobierno Regional Cajamarca la publicación del CAP en el portal electrónico del Gobierno Regional Cajamarca (www.regioncajamarca.gob.pe) dentro de los 3 días calendario siguientes a la fecha de publicación en el Diario Oficial El Peruano, y en el Portal del Estado Peruano; bajo responsabilidad de los funcionarios designados conforme a la Ley de Transparencia y Acceso a la Información Pública.
+Tercero.- La presente Ordenanza Regional entrará en vigencia al día siguiente de su publicación en el Diario Oficial El Peruano.
+Cuarto.- Dejar sin efecto las disposiciones que se opongan a la presente Ordenanza Regional.
+Por tanto:
+Mando se registre, publique y cumpla.
+Dado en la Sede Institucional del Gobierno Regional Cajamarca, a los tres días del mes de diciembre del año dos mil diez.
+WILSON NICOLAS FLORES CASTILLO
+Presidente Regional
+Provisional
