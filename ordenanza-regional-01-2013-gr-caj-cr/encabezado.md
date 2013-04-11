@@ -1,0 +1,29 @@
+ORDENANZA REGIONAL
+Nº 01-2013-GR.CAJ-CR
+EL PRESIDENTE DEL GOBIERNO REGIONAL CAJAMARCA
+POR CUANTO:
+EL CONSEJO REGIONAL CAJAMARCA
+Ha aprobado la Ordenanza Regional siguiente:
+CONSIDERANDO:
+Que, de acuerdo a lo prescrito en el artículo 191º de la Constitución Política, en concordancia con el artículo 2º de la Ley Orgánica de Gobiernos Regionales Ley Nº 27867, los Gobiernos Regionales son personas jurídicas de derecho público con autonomía política, económica y administrativa en asuntos de su competencia;
+Que, es competencia del Gobierno Regional Cajamarca, emitir Ordenanzas Regionales en virtud a lo dispuesto en el artículo 38º de la acotada norma, que establece, “Las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia (…)”;
+Que, la Ley N° 27783 Ley de Bases de la Descentralización, en el artículo 5° señala que es misión de los Gobiernos Regionales organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, compartidas y delegadas, en el marco de las políticas nacionales y sectoriales para contribuir al desarrollo integral y sostenible de la región;
+Que, la Mancomunidad Regional es una persona jurídica de derecho público, constituye un pliego presupuestal, y no constituye nivel de gobierno, y su organización y funcionamiento se sujeta a los dispuesto en el Ley de la Mancomunidad Regional, Ley N° 29768 y su Estatuto; tiene como objetivo promover el desarrollo regional facilitando la gestión de proyectos y servicios que se desarrollan o tienen impacto en dos o más departamentos correspondientes a los gobiernos regionales que la conforman mediante el aprovechamiento de ventajas generadas por economía de escalas y capacidad de gestión interdepartamental, conforme a las facultades y limitaciones que establezca la Asamblea de la Mancomunidad;
+Que, mediante Ordenanza Regional Nº 035-2011-GR.CAJ-CR se declara la voluntad del Gobierno Regional Cajamarca de constituir La Mancomunidad Regional Amazonas-San Martín-La Libertad-Cajamarca;
+Que, con fecha 04 de diciembre del 2011, los Presidentes Regionales de las Regiones Amazonas, San Martín, La Libertad y Cajamarca, suscriben el Acta de Creación de la Mancomunidad Regional Amazonas, San Martín, La Libertad, Cajamarca;
+Que, mediante Ordenanza Regional Nº 007-2012-GR-LL/CR se aprueba el Estatuto de la Mancomunidad Regional Amazonas, San Martín, La Libertad, Cajamarca, que consta de VI Capítulos y 28° Artículos; en mérito a lo acordado en la VII Asamblea de la Mancomunidad Regional desarrollada en la ciudad de Cajamarca los días 26, 27 y 28 de abril del 2012;
+Que, con fecha 20 de noviembre de 2012, en la ciudad de Chachapoyas Región Amazonas, se desarrolló la VIII Asamblea de La Mancomunidad Regional Amazonas, San Martin, La Libertad, Cajamarca, entre otros, se acordó por unanimidad que teniendo en cuenta la visión y misión de la Mancomunidad Regional, designar con una nombre propio que identifique a nuestra mancomunidad, el mismo que debe estar acorde con los objetivos turísticos y de desarrollo sostenible que vienen impulsando los integrantes de la Mancomunidad Regional, es este sentido se acoró aprobar que a partir de la fecha, la Mancomunidad Regional Amazonas, San Martin, La Libertad Cajamarca lleve el nombre de: Mancomunidad Regional del Qhapaq Ñan Nor Amazónico;
+Que, el día 31 de enero del 2013 se publica en el Boletín del Diario Oficial El Peruano, el Acta de Creación de la Mancomunidad Regional;
+Que, en cumplimiento de lo acordado en la referida Asamblea de la Mancomunidad Regional es pertinente que mediante Ordenanza Regional se modifique del nombre de la Mancomunidad Regional por el de “Mancomunidad Regional del Qhapaq Ñan Nor Amazónico”;
+Que, mediante Dictamen N° 007 -2013-GR.CAJ-CR/ COAJ, evacuado por la Comisión Ordinaria de Asuntos Jurídicos, de fecha 27 de febrero del año 2013, se emite opinión favorable para la aprobación del Proyecto Ordenanza Regional de “Modificar el Nombre de la Mancomunidad Regional Amazonas – San Martín – La Libertad - Cajamarca”, proyecto remitido por el Presidente de la Mancomunidad Regional, Prof. Elzer Elera López, por los argumentos que se exponen en los considerandos precedentes;
+Estando a lo acordado por el Pleno del Consejo Regional del Gobierno Regional Cajamarca en su Sesión Ordinaria de fecha 5 de marzo del año 2013; y a las atribuciones conferidas por la Ley de Bases de la Descentralización Nº 27783; Ley Orgánica de Gobiernos Regionales Nº 27867, modificada por las Leyes Nº 27902, 28013, 28961, 28968 y 29053; Reglamento Interno del Consejo del Gobierno Regional Cajamarca, aprobado mediante Ordenanza Regional Nº 010-2011-GR.CAJ-CR, por unanimidad el Pleno aprobó la siguiente:
+ORDENANZA REGIONAL
+Primero.- MODIFICAR el nombre de Mancomunidad Regional Amazonas – San Martín – La Libertad – Cajamarca, por el de: “Mancomunidad Regional del Qhapaq Ñan Nor Amazónico”; conforme lo acordado en la VIII Asamblea de la Mancomunidad Regional, realizada en la ciudad de Chachapoyas el día 20 de noviembre del 2012.
+Segundo.- ENCARGAR al Órgano Ejecutivo del Gobierno Regional Cajamarca disponga las acciones necesarias para dar cumplimiento a la presente Ordenanza Regional.
+Tercero.- ENCARGAR a la Dirección Regional de Administración realice los trámites correspondientes para la publicación y difusión de la presente Ordenanza Regional en el Diario Oficial El Peruano y su difusión en portal electrónico del Gobierno Regional Cajamarca (www. regioncajamarca.gob.pe).
+Cuarto.- La presente ordenanza regional entrará en vigencia al día siguiente de su publicación en el Diario Oficial El Peruano.
+Por tanto:
+Mando se registre, publique y cumpla.
+Dado en la sede institucional del Gobierno Regional Cajamarca, a los cinco días del mes de marzo del año dos mil trece.
+GREGORIO SANTOS GUERRERO
+Presidente Regional
