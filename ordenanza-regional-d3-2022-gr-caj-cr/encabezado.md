@@ -1,0 +1,32 @@
+EXPEDIENTE N° 000775-2022-021427
+ORDENANZA REGIONAL
+N° D3-2022-GR.CAJ/CR
+Cajamarca, 19 de abril de 2022
+EL GOBERNADOR DEL GOBIERNO REGIONAL CAJAMARCA POR CUANTO:
+EL CONSEJO REGIONAL DEL GOBIERNO
+REGIONAL CAJAMARCA
+Ha aprobado la Ordenanza Regional siguiente:
+Que, la Constitución Política del Estado en el artículo 191°, establece que: “los Gobiernos Regionales emanan de la voluntad popular son personas jurídicas de derecho público, con autonomía política, económica y administrativa en asuntos de su competencia, constituyendo para su administración económica y financiera un pliego presupuestal”. Además, el artículo 192° dispone que: “los Gobiernos Regionales promueven el desarrollo y la economía regional, fomentan las inversiones, actividades y servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y locales de desarrollo”;
+Que, la Ley N° 27867, Ley Orgánica de Gobiernos Regionales en el artículo 15º literal a) dispone que “es una atribución del Consejo Regional, aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional”; en el artículo 38º señala que “las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia (…)”; y, en el artículo 45° establece que “los Gobiernos Regionales definen, norman, dirigen y gestionan sus políticas regionales y ejercen sus funciones generales y específicas en concordancia con las políticas nacionales y sectoriales”;
+Que, el artículo 9°, inciso 9.2 de la Ley Nº 27783, Ley de Bases de la Descentralización, establece que la autonomía administrativa es la facultad de organizarse internamente, determinar y reglamentar los servicios públicos de su responsabilidad;
+Que, mediante Oficio N°1039-2021-GR.CAJ-DRS-HGJ/DE de fecha 05 de octubre del año 2021, la Dirección Ejecutiva de la unidad ejecutora 405 – 1047 Hospital General de Jaén; remite la propuesta de Estructura Orgánica y Reglamento de Organización y Funciones (ROF) actualizada del Hospital General de Jaén para su revisión y aprobación que corresponda, dado que el ROF actual y aprobado mediante la Ordenanza Regional Nº 001-2015-GRC del año 2015 y vigente a la fecha, no responde a las necesidades acorde al nuevo contexto funcional, operativo, administrativo, ni presupuestal. En esa línea, la Oficina de Planeamiento Estratégico del Hospital General de Jaén ha formulado una nueva propuesta del Reglamento de Organización y Funciones – ROF, propuesta diseñada acorde a los nuevos objetivos institucionales; mayores recursos presupuestarios; y la debida estructura funcional, organización, infraestructura, equipamiento y recursos humanos, con miras a alcanzar la categorización hospitalaria III-1. Todo ello en el marco del Plan de Implementación Multianual – PIM 2020 – 2022, aprobado con Resolución Ejecutiva Regional N° D000150-2020- GRC-GR de fecha 30 de junio de 2020, donde se establece la gradualidad multianual de las operaciones y mantenimiento del nuevo hospital.
+Que, el Reglamento de Organización y Funciones - ROF, es un documento técnico normativo de gestión organizacional, que formaliza la estructura orgánica de la entidad; contiene las competencias y funciones generales de la entidad; las funciones específicas de sus unidades de organización, así como sus relaciones de dependencia; en el contexto de su realidad institucional del Hospital General Jaén, cuya modificación del ROF se sustenta en el supuesto b) del numeral 46.1, del Artículo 46 de los Lineamientos de Organización del Estado, aprobado mediante Decreto Supremo Nº 054- 2018-PCM y sus modificatorias, el cual establece supuestos básicos para la aprobación o modificación de un ROF, siendo entre otros; La modificación de la estructura orgánica y por tanto del ROF, por el incremento del número de unidades de organización por nivel organizacional o niveles organizacionales.
+Que, mediante Dictamen Nº D4-2022-GR.CAJ/ COAJ, evaluado por la Comisión Ordinaria de Asuntos Jurídicos; se emite opinión favorable para la aprobación de la propuesta de modificación del Reglamento de Organización y Funciones ROF del Hospital General Jaén, por los argumentos que se exponen en los considerandos precedentes;
+Estando a lo acordado por el Pleno del Consejo Regional del Gobierno Regional Cajamarca en su Sesión Ordinaria de fecha 01 de Abril del año 2022; y a las atribuciones conferidas por la Ley de Bases de la Descentralización Nº 27783; Ley Orgánica de Gobiernos Regionales Nº 27867, modificada por las Leyes Nº 27902, 28013, 28926, 28961, 28968 y 29053 y con el voto favorable del Pleno se aprobó la siguiente:
+ORDENANZA REGIONAL
+Primero: APROBAR la actualización de la Estructura Orgánica y el Reglamento de Organización y Funciones -ROF del Hospital General Jaén, el mismo que consta de nueve (9) Títulos, cinco (5) Capítulos, setenta y dos (72) Artículos y un (1) anexo con el organigrama, en sesenta y tres (63) folios, que debidamente visados, forman parte de la presente ordenanza regional.
+Segundo: NOTIFICAR al Hospital General Jaén, la aprobación del Reglamento de Organización y Funciones, así como las instancias correspondientes.
+Tercero: ENCARGAR a la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial, brinde las orientaciones y la asistencia técnica necesarias para la implementación de las acciones a que diere lugar.
+Cuarto: La presente Ordenanza Regional entrará en vigencia al día siguiente de su publicación en el Diario Oficial “El Peruano”.
+Quinto: ENCARGAR al Órgano Ejecutivo del Gobierno Regional Cajamarca la publicación del ROF en el portal electrónico del Gobierno Regional Cajamarca, dentro de los 5 días calendario siguientes a la fecha de publicación en el Diario Oficial El Peruano; bajo responsabilidad de los funcionarios designados conforme a la Ley de Transparencia y Acceso a la Información Pública.
+Sexto: Dejar sin efecto todas las disposiciones que se opongan a la presente ordenanza.
+Comuníquese al Gobernador Regional del Gobierno de Cajamarca para su promulgación.
+En Cajamarca, a los 5 días del mes de abril del año dos mil veintidos.
+IVAN MIKAEL CÁCERES VIGO
+Consejero Delegado
+Consejo Regional
+POR TANTO:
+Mando se registre, publique y cumpla con los apremios de Ley.
+Dado en Cajamarca, en la sede del Gobierno Regional.
+MESÍAS ANTONIO GUEVARA AMASIFUEN
+Gobernador Regional
