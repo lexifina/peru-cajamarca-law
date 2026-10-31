@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-117 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+187 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -129,6 +129,76 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-04-2013-gr-caj-cr/` | Ordenanza Regional N° 04-2013-GR.CAJ-CR: Aprueban implementación del "Plan Regional de Movilización 2013 - 2014" | in force 11 April 2013 |
 | `ordenanza-regional-03-2013-gr-caj-cr/` | Ordenanza Regional N° 03-2013-GR.CAJ-CR: Crean el "Sistema de Información Ambiental Regional" - SIAR Cajamarca | in force 11 April 2013 |
 | `ordenanza-regional-05-2013-gr-caj-cr/` | Ordenanza Regional N° 05-2013-GR.CAJ-CR: Aprueban implementación del "Plan Regional de Defensa Nacional" | in force 11 April 2013 |
+| `ordenanza-regional-d000011-2021-grc-cr/` | Ordenanza Regional N° D000011-2021-GRC-CR: Aprueban la Política Regional de la Persona con Discapacidad de Cajamarca al 2030 | in force 1 November 2021 |
+| `ordenanza-regional-d000007-2020-grc-cr/` | Ordenanza Regional N° D000007-2020-GRC-CR: Aprueban el Cuadro para Asignación de Personal Provisional - CAP P de la Dirección Regional de Salud Cajamarca | in force 3 December 2020 |
+| `ordenanza-regional-001-2020-gr-caj-cr/` | Ordenanza Regional N° 001-2020-GR-CAJ-CR: Aprueban la creación del Consejo Consultivo de Niñas, Niños y Adolescentes (CCONNA) de la Región Cajamarca | in force 24 August 2020 |
+| `ordenanza-regional-08-2019-gr-caj-cr/` | Ordenanza Regional N° 08-2019-GR.CAJ-CR: Declaran de interés regional y necesidad pública la formalización de la propiedad rural con intervención del Proyecto C… | in force 8 March 2020 |
+| `ordenanza-regional-02-2019-gr-caj-cr/` | Ordenanza Regional N° 02-2019-GR.CAJ.CR: Dictan normas complementarias aplicables a las autorizaciones para el servicio de transporte regular de personas con di… | in force 17 May 2019 |
+| `ordenanza-regional-011-2018-gr-caj-cr/` | Ordenanza Regional N° 011-2018-GR.CAJ-CR: Aprueban el Plan Regional Exportador de Cajamarca Actualizado al 2025 | in force 9 May 2019 |
+| `ordenanza-regional-10-2018-gr-caj-cr/` | Ordenanza Regional N° 10-2018-GR.CAJ-CR: Aprueban Instrumentos Técnicos para el Ordenamiento Territorial del departamento de Cajamarca | in force 9 May 2019 |
+| `ordenanza-regional-18-2018-gr-caj-cr/` | Ordenanza Regional N° 18-2018-GR.CAJ-CR: Aprueban el Plan Estratégico Regional de Turismo de Cajamarca - PERTUR CAJAMARCA 2019 - 2025 | in force 8 May 2019 |
+| `ordenanza-regional-012-2018-gr-caj-cr/` | Ordenanza Regional N° 012-2018-GR.CAJ-CR: Aprueban Cuadro de Asignación de Personal Provisional - CAP-P de la Dirección Regional Salud Cajamarca y diversas Dire… | in force 6 December 2018 |
+| `ordenanza-regional-013-2018-gr-caj-cr/` | Ordenanza Regional N° 013-2018-GR.CAJ-CR: Declaran de interés público regional "El Reordenamiento de Recursos Humanos de la Dirección Regional de Salud de Cajam… | in force 6 December 2018 |
+| `ordenanza-regional-08-2018-gr-caj-cr/` | Ordenanza Regional N° 08-2018-GR.CAJ-CR: Aprueban incorporación de la Formación en Salud Intercultural y la Lengua Materna u Originaria de la Población como cri… | in force 21 September 2018 |
+| `ordenanza-regional-4-2018-gr-caj-cr/` | Ordenanza Regional N° 4-2018-GR.CAJ-CR: Modifican el Cuadro de Asignación de Personal Provisional - CAP-P de la Dirección Regional de Salud Cajamarca | in force 5 May 2018 |
+| `ordenanza-regional-15-2017-gr-caj-cr/` | Ordenanza Regional N° 15-2017-GR.CAJ-CR: Aprueban el Texto Único de Procedimientos Administrativos TUPA del Gobierno Regional Cajamarca | in force 25 March 2018 |
+| `ordenanza-regional-02-2018-gr-caj-cr/` | Ordenanza Regional N° 02-2018-GR.CAJ-CR: Aprueban el Reglamento de Supervisión, Fiscalización y Sanción en Materia Ambiental y el Reglamento para la Atención de… | in force 22 March 2018 |
+| `ordenanza-regional-16-2017-gr-caj-cr/` | Ordenanza Regional N° 16-2017-GR.CAJ-CR: Aprueban Lineamientos Técnicos para la Transversalización del Enfoque de Género en las Políticas y Gestión del Gobierno… | in force 17 December 2017 |
+| `ordenanza-regional-05-2015-gr-caj-cr/` | Ordenanza Regional N° 05-2015-GR.CAJ-CR: Aprueban en Nuevo Modelo de Desarrollo Sostenible, Políticas Públicas y Estrategias del Gobierno Regional Cajamarca, Pe… | in force 4 July 2015 |
+| `ordenanza-regional-014-2014-gr-caj-cr/` | Ordenanza Regional N° 014-2014-GR.CAJ-CR: Crean el "Comité Regional Intergubernamental de Inversiones en Salud Cajamarca - CRIIS Cajamarca" | in force 25 April 2015 |
+| `ordenanza-regional-014-2013-gr-caj-cr/` | Ordenanza Regional N° 014-2013-GR.CAJ-CR: Aprueban el Plan de Acción del Plan de Ordenamiento Territorial del Departamento de Cajamarca | in force 16 November 2013 |
+| `ordenanza-regional-016-2013-gr-caj-cr/` | Ordenanza Regional N° 016-2013-GR.CAJ-CR: Aprueban Cuadro para Asignación de Personal CAP del Hospital José Hernán Soto Cadenillas | in force 16 November 2013 |
+| `ordenanza-regional-012-2013-gr-caj-cr/` | Ordenanza Regional N° 012-2013-GR.CAJ-CR: Crean la Comisión Regional Anticorrupción de Cajamarca | in force 10 October 2013 |
+| `ordenanza-regional-013-2013-gr-caj-cr/` | Ordenanza Regional N° 013-2013-GR.CAJ-CR: Declaran los días 7 de setiembre de cada año como "Día Regional de la Salud" en la Región de Cajamarca | in force 10 October 2013 |
+| `ordenanza-regional-011-2013-gr-caj-cr/` | Ordenanza Regional N° 011-2013-GR.CAJ-CR: Incorporan al TUPA  del Gobierno Regional Procedimientos Administrativos y Servicios prestados en exclusividad por las… | in force 10 October 2013 |
+| `ordenanza-regional-09-2013-gr-caj-cr/` | Ordenanza Regional N° 09-2013-GR.CAJ-CR: Aprueban el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional Cajamarca | in force 6 September 2013 |
+| `ordenanza-regional-010-2013-gr-caj-cr/` | Ordenanza Regional N° 010-2013-GR.CAJ-CR: Modifican el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional Cajamarca | in force 6 September 2013 |
+| `ordenanza-regional-08-2013-gr-caj-cr/` | Ordenanza Regional N° 08-2013-GR.CAJ-CR: Aprueban Reglamento de Organización y Funciones del Hospital José Hernan Soto Cadenillas | in force 6 September 2013 |
+| `ordenanza-regional-06-2013-gr-caj-cr/` | Ordenanza Regional N° 06-2013-GR.CAJ-CR: Aprueban implementación del "Plan Regional de Gestión del Riesgo de Desastres al 2014" | in force 11 April 2013 |
+| `ordenanza-regional-01-2013-gr-caj-cr/` | Ordenanza Regional N° 01-2013-GR.CAJ-CR: Modifican nombre de Mancomunidad Regional Amazonas - San Martín - La Libertad - Cajamarca por el de "Mancomunidad Regio… | in force 11 April 2013 |
+| `ordenanza-regional-02-2013-gr-caj-cr/` | Ordenanza Regional N° 02-2013-GR.CAJ-CR: Aprueban actualización de la Política Ambiental Regional al 2021, el Plan de Acción Ambiental Regional 2013 - 2021 y la… | in force 11 April 2013 |
+| `ordenanza-regional-012-2012-gr-caj-cr/` | Ordenanza Regional N° 012-2012-GR.CAJ-CR: Declaran de interés y necesidad público regional la "Promoción de la Cultura de Paz y el Manejo Constructivo de Confli… | in force 1 December 2012 |
+| `ordenanza-regional-010-2012-gr-caj-cr/` | Ordenanza Regional N° 010-2012-GR.CAJ-CR: Incluyen la relación de Procedimientos Administrativos de la Dirección Regional de Comercio Exterior y Turismo - Cajam… | in force 1 December 2012 |
+| `ordenanza-regional-011-2012-gr-caj-cr/` | Ordenanza Regional N° 011-2012-GR.CAJ-CR: Aprueban el Programa Regional de Población: Cajamarca 2012 -2016 | in force 1 December 2012 |
+| `ordenanza-regional-09-2012-gr-caj-cr/` | Ordenanza Regional N° 09-2012-GR.CAJ-CR: Aprueban el Plan Regional de Empleo Juvenil 2012 - II - 2014 - IV | in force 28 September 2012 |
+| `ordenanza-regional-008-2012-gr-caj-cr/` | Ordenanza Regional N° 008-2012-GR.CAJ-CR: Declaran de orgullo regional al Café Cajamarquino | in force 22 September 2012 |
+| `ordenanza-regional-006-2012-gr-caj-cr/` | Ordenanza Regional N° 006-2012-GR.CAJ/CR: Modifican la Ordenanza N° 012-2010-GR.CAJ-CR, sobre conformación de la Comisión Técnica Regional de Zonificación Ecoló… | in force 10 August 2012 |
+| `ordenanza-regional-007-2012-gr-caj-cr/` | Ordenanza Regional N° 007-2012-GR.CAJ-CR: Aprueban Estatuto de la Mancomunidad Regional Amazonas, San Martín, La Libertad, Cajamarca | in force 10 August 2012 |
+| `ordenanza-regional-001-2012-gr-caj-cr/` | Ordenanza Regional N° 001-2012-GR.CAJ-CR: Conforman el "Comité Especial de Alianza Público Privado para el Desarrollo de la Región Cajamarca" | in force 2 March 2012 |
+| `ordenanza-regional-043-2011-grcaj-cr/` | Ordenanza Regional N° 043-2011-GRCAJ-CR: Aprueban el Plan Vial Departamental Participativo de Cajamarca 2011 - 2020 | in force 31 January 2012 |
+| `ordenanza-regional-042-2011-gr-caj-cr/` | Ordenanza Regional N° 042-2011-GR.CAJ-CR: Incluyen relación de procedimientos administrativos de la Dirección Regional de Transporte y Comunicaciones Cajamarca … | in force 6 January 2012 |
+| `ordenanza-regional-040-2011-gr-caj-cr/` | Ordenanza Regional N° 040-2011-GR.CAJ-CR: Declaran de "Interés Público Regional la prevención y promoción de la erradicación del trabajo de niños y niñas en la … | in force 6 January 2012 |
+| `ordenanza-regional-039-2011-gr-caj-cr/` | Ordenanza Regional N° 039-2011-GR.CAJ-CR: Declaran de interés público la Promoción y Gestión Cultural Regional, Inclusiva, Pluricultural y Multiétnica como acci… | in force 6 January 2012 |
+| `ordenanza-regional-037-2011-gr-caj-cr/` | Ordenanza Regional N° 037-2011-GR.CAJ-CR: Aprueban Cuadros para Asignación de Personal CAP de las Unidades de Gestión Educativa Local Chota, Cutervo, Jaén y San… | in force 6 January 2012 |
+| `ordenanza-regional-041-2011-gr-caj-cr/` | Ordenanza Regional N° 041-2011-GR.CAJ-CR: Declaran de interés público regional la atención integral de la problemática de la trata de personas en la Región Caja… | in force 6 January 2012 |
+| `ordenanza-regional-038-2011-gr-caj-cr/` | Ordenanza Regional N° 038-2011-GR.CAJ-CR: Aprueban Reglamentos de Organización y Funciones ROF de las Unidades de Gestión Educativa Local Chota, Cutervo, Jaén y… | in force 6 January 2012 |
+| `ordenanza-regional-036-2011-gr-caj-cr/` | Ordenanza Regional N° 036-2011-GR.CAJ-CR: Declaran de interés público regional la conservación, protección e intangibilidad de las cabeceras de cuenca en toda l… | in force 29 December 2011 |
+| `ordenanza-regional-035-2011-grcaj-cr/` | Ordenanza Regional N° 035-2011-GRCAJ-CR: Declaran la voluntad del Gobierno Regional de Cajamarca de constituir la "Mancomunidad Regional Amazonas, San Martín, L… | in force 29 October 2011 |
+| `ordenanza-regional-034-2011-gr-caj-cr/` | Ordenanza Regional N° 034-2011-GR.CAJ-CR: Aprueban la actualización de la Zonificación Ecológica y Económica a nivel macro de l departamento de Cajamarca | in force 25 October 2011 |
+| `ordenanza-regional-033-2011-grcaj-cr/` | Ordenanza Regional N° 033-2011-GRCAJ-CR: Disponen que el Presidente del Gobierno Regional emita el Decreto Regional que reconozca beneficios por cumplimiento de… | in force 25 October 2011 |
+| `ordenanza-regional-032-2011-gr-caj-cr/` | Ordenanza Regional N° 032-2011-GR.CAJ-CR: Declaran de Interés Público Regional la Promoción de la Asociatividad y la Competitividad Agraria | in force 22 October 2011 |
+| `ordenanza-regional-030-2011-grcaj-cr/` | Ordenanza Regional N° 030-2011-GRCAJ-CR: Declaran de Interés Público Regional  la conservación y protección de bosques de las comunidades nativas de Los Naranjo… | in force 22 October 2011 |
+| `ordenanza-regional-031-2011-grcaj-cr/` | Ordenanza Regional N° 031-2011-GRCAJ-CR: Declaran de Interés Público Regional  la conservación y protección de diversos ríos y sus afluentes | in force 22 October 2011 |
+| `ordenanza-regional-029-2011-grcaj-cr/` | Ordenanza Regional N° 029-2011-GRCAJ-CR: Recomiendan al Presidente del Gobierno Regional se emita un Decreto Regional por el cual se reconozca diversos benefici… | in force 12 September 2011 |
+| `ordenanza-regional-028-2011-grcaj-cr/` | Ordenanza Regional N° 028-2011-GRCAJ-CR: Crean la Comisión Regional Multisectorial de Monitoreo del derecho al nombre y a la identidad de niños, niñas y adolesc… | in force 26 August 2011 |
+| `ordenanza-regional-025-2011-grcaj-cr/` | Ordenanza Regional N° 025-2011-GRCAJ-CR: Declaran a la Región Cajamarca "Libre de Transgénicos" y prohiben actividades de introducción, cultivo, manipulación, a… | in force 26 August 2011 |
+| `ordenanza-regional-026-2011-grcaj-cr/` | Ordenanza Regional N° 026-2011-GRCAJ-CR: Declaran de interés público regional la conservación y protección del Bosque Huamantanga | in force 26 August 2011 |
+| `ordenanza-regional-024-2011-grcaj-cr/` | Ordenanza Regional N° 024-2011-GRCAJ-CR: Crean el Sistema Regional de Conservación de las Áreas Naturales de Cajamarca - SIRECC | in force 26 August 2011 |
+| `ordenanza-regional-023-2011-grcaj-cr/` | Ordenanza Regional N° 023-2011-GRCAJ-CR: Declaran en el ámbito del Gobierno Regional Cajamarca el mes de noviembre de cada año como "Mes de la no violencia cont… | in force 26 August 2011 |
+| `ordenanza-regional-015-2011-grcaj-cr/` | Ordenanza Regional N° 015-2011-GRCAJ-CR: Declaran de interés público regional la conservación y protección de cabeceras de cuenca de ríos, a fin de garantizar l… | in force 8 August 2011 |
+| `ordenanza-regional-019-2011-grcaj-cr/` | Ordenanza Regional N° 019-2011-GRCAJ-CR: Conforman el "Consejo Regional de Protección de las Personas Adultas Mayores de Cajamarca" - COREPAM | in force 30 June 2011 |
+| `ordenanza-regional-012-2011-gr-caj-cr/` | Ordenanza Regional N° 012-2011-GR.CAJ-CR: Declaran como Prioridad Regional la Vacunación y el Servicio de Vacunación en establecimientos de salud fijos y oferta… | in force 30 June 2011 |
+| `ordenanza-regional-016-2011-grcaj-cr/` | Ordenanza Regional N° 016-2011-GRCAJ-CR: Aprueban el Plan Cuatrienal de Educación de la Región Cajamarca 2011-2014 | in force 30 June 2011 |
+| `ordenanza-regional-013-2011-gr-caj-cr/` | Ordenanza Regional N° 013-2011-GR.CAJ-CR: Aprueban Reglamento de Organización y Funciones ROF de la Unidad de Gestión Educativa Local de Cajamarca | in force 30 June 2011 |
+| `ordenanza-regional-014-2011-gr-caj-cr/` | Ordenanza Regional N° 014-2011-GR.CAJ-CR: Aprueban Cuadro para Asignación de Personal CAP de la Unidad de Gestión Educativa Local Cajamarca | in force 30 June 2011 |
+| `ordenanza-regional-010-2011-gr-caj-cr/` | Ordenanza Regional N° 010-2011-GR.CAJ-CR: Aprueban Reglamento Interno del Consejo Regional del Gobierno Regional Cajamarca | in force 30 June 2011 |
+| `ordenanza-regional-008-2011-grcaj-cr/` | Ordenanza Regional N° 008-2011-GRCAJ-CR: Declaran de interés público la conservación y protección de los bosques Cachil y Sanchú | in force 27 May 2011 |
+| `ordenanza-regional-007-2011-grcaj-cr/` | Ordenanza Regional N° 007-2011-GRCAJ-CR: Aprueban el Reglamento de Organización y Funciones de diversas Unidades de Gestión Educativas Locales | in force 27 May 2011 |
+| `ordenanza-regional-009-2011-grcaj-cr/` | Ordenanza Regional N° 009-2011-GRCAJ-CR: Aprueban el Cuadro para Asignación de Personal de diversas Unidades de Gestión Educativas Locales | in force 27 May 2011 |
+| `ordenanza-regional-006-2011-grcaj-cr/` | Ordenanza Regional N° 006-2011-GRCAJ-CR: Declaran de Interés Público Regional la conservación y protección de las cabeceras de cuenca de diversos ríos | in force 27 May 2011 |
+| `ordenanza-regional-005-2011-grcaj-cr/` | Ordenanza Regional N° 005-2011-GRCAJ-CR: Declaran de interés público la promoción del derecho a la salud y a la vida mediante acciones de prevención de las ITS … | in force 27 May 2011 |
+| `ordenanza-regional-004-2011-grcaj-cr/` | Ordenanza Regional N° 004-2011-GRCAJ-CR: Modifican la Ordenanza Regional N° 013-2005-GR-CAJ-CR, respecto a la conformación y nombre del Grupo Técnico Regional d… | in force 27 May 2011 |
+| `ordenanza-regional-001-2011-grcaj-cr/` | Ordenanza Regional N° 001-2011-GRCAJ-CR: Facultan al Presidente del Gobierno Regional de Cajamarca para que designe y cese a funcionarios de confianza de las Un… | in force 10 March 2011 |
 
 ## Source
 
