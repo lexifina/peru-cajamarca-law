@@ -1,0 +1,157 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-d1-2024-gr-caj-cr",
+    "ordenanza-regional-d1-2026-gr-caj-cr",
+    "ordenanza-regional-d10-2022-gr-caj-cr",
+    "ordenanza-regional-d10-2023-gr-caj-cr",
+    "ordenanza-regional-d11-2025-gr-caj-cr",
+    "ordenanza-regional-d12-2022-gr-caj-cr",
+    "ordenanza-regional-d12-2023-gr-caj-cr",
+    "ordenanza-regional-d12-2025-gr-caj-cr",
+    "ordenanza-regional-d13-2022-gr-caj-cr",
+    "ordenanza-regional-d13-2023-gr-caj-cr",
+    "ordenanza-regional-d14-2022-gr-caj-cr",
+    "ordenanza-regional-d15-2022-gr-caj-cr",
+    "ordenanza-regional-d16-2022-gr-caj-cr",
+    "ordenanza-regional-d17-2022-gr-caj-cr",
+    "ordenanza-regional-d18-2022-gr-caj-cr",
+    "ordenanza-regional-d19-2022-gr-caj-cr",
+    "ordenanza-regional-d2-2023-gr-caj-cr",
+    "ordenanza-regional-d2-2024-gr-caj-cr",
+    "ordenanza-regional-d2-2025-gr-caj-cr",
+    "ordenanza-regional-d2-2026-gr-caj-cr",
+    "ordenanza-regional-d4-2023-gr-caj-cr",
+    "ordenanza-regional-d4-2026-gr-caj-cr",
+    "ordenanza-regional-d5-2023-gr-caj-cr",
+    "ordenanza-regional-d5-2026-gr-caj-cr",
+    "ordenanza-regional-d6-2022-gr-caj-cr-scr",
+    "ordenanza-regional-d6-2023-gr-caj-cr",
+    "ordenanza-regional-d6-2026-gr-caj-cr",
+    "ordenanza-regional-d7-2023-gr-caj-cr",
+    "ordenanza-regional-d7-2025-gr-caj-cr",
+    "ordenanza-regional-d7-2026-gr-caj-cr",
+    "ordenanza-regional-d8-2022-gr-caj-cr",
+    "ordenanza-regional-d8-2023-gr-caj-cr",
+    "ordenanza-regional-d8-2025-gr-caj-cr",
+    "ordenanza-regional-d8-2026-gr-caj-cr",
+    "ordenanza-regional-d9-2022-gr-caj-cr",
+    "ordenanza-regional-d9-2026-gr-caj-cr",
+    "ordenanza-regional-ordenanza-regional"
+   ],
+   "sha256": "1b4c9bfcdf7f001506175bda2f84f6b665c00b1fc0338e43aef4544b46093b5d"
+  },
+  "30-ordenanzas-02.json": {
+   "acts": [
+    "ordenanza-regional-0007-2019-gr-caj-cr",
+    "ordenanza-regional-002-2020-gr-caj-cr",
+    "ordenanza-regional-004-2019-gr-caj-cr",
+    "ordenanza-regional-006-2019-gr-caj-cr",
+    "ordenanza-regional-06-2018-gr-caj-cr",
+    "ordenanza-regional-09-2018-gr-caj-cr",
+    "ordenanza-regional-14-2018-gr-caj-cr",
+    "ordenanza-regional-15-2018-gr-caj-cr",
+    "ordenanza-regional-16-2018-gr-caj-cr",
+    "ordenanza-regional-17-2018-gr-caj-cr",
+    "ordenanza-regional-d000001-2021-grc-cr",
+    "ordenanza-regional-d000005-2021-grc-cr",
+    "ordenanza-regional-d000006-2020-grc-cr",
+    "ordenanza-regional-d000006-2021-grc-cr",
+    "ordenanza-regional-d000008-2020-grc-cr",
+    "ordenanza-regional-d000009-2020-grc-cr",
+    "ordenanza-regional-d000010-2020-grc-cr",
+    "ordenanza-regional-d000010-2021-grc-cr",
+    "ordenanza-regional-d000012-2021-grc-cr",
+    "ordenanza-regional-d000013-2021-grc-cr",
+    "ordenanza-regional-d000015-2021-grc-cr",
+    "ordenanza-regional-d000016-2021-grc-cr",
+    "ordenanza-regional-d000017-2021-grc-cr",
+    "ordenanza-regional-d000018-2021-grc-cr",
+    "ordenanza-regional-d3-2022-gr-caj-cr",
+    "ordenanza-regional-d4-2022-gr-caj-cr"
+   ],
+   "sha256": "90250cec7c08d2b4898645323c79a2ab631896d950456f6008c2a4677d54aec1"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-d11-2022-gr-caj-cr",
+    "ordenanza-regional-operacion-2468568-1",
+    "ordenanza-regional-operacion-2469161-1"
+   ],
+   "sha256": "6a0d5d9b1d391f2156439c5f023ac7cb82051dcacca4b7c2d89124d4ad115930"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2016-gr-caj-cr",
+    "ordenanza-regional-001-2017-gr-caj-cr",
+    "ordenanza-regional-002-2016-gr-caj-cr",
+    "ordenanza-regional-003-2016-gr-caj-cr",
+    "ordenanza-regional-004-2016-gr-caj-cr",
+    "ordenanza-regional-007-2015-gr-caj-cr",
+    "ordenanza-regional-007-2016-gr-caj-cr",
+    "ordenanza-regional-01-2018-gr-caj-cr",
+    "ordenanza-regional-010-2015-gr-caj-cr",
+    "ordenanza-regional-010-2016-gr-caj-cr",
+    "ordenanza-regional-011-2015-gr-caj-cr",
+    "ordenanza-regional-011-2016-gr-caj-cr",
+    "ordenanza-regional-011-2017-gr-caj-cr",
+    "ordenanza-regional-012-2014-gr-caj-cr",
+    "ordenanza-regional-012-2015-gr-caj-cr",
+    "ordenanza-regional-012-2016-gr-caj-cr",
+    "ordenanza-regional-012-2017-gr-caj-cr",
+    "ordenanza-regional-013-2014-gr-caj-cr",
+    "ordenanza-regional-013-2016-gr-caj-cr",
+    "ordenanza-regional-014-2017-gr-caj-cr",
+    "ordenanza-regional-02-2017-gr-caj-cr",
+    "ordenanza-regional-03-2017-gr-caj-cr",
+    "ordenanza-regional-03-2018-gr-caj-cr",
+    "ordenanza-regional-04-2017-gr-caj-cr",
+    "ordenanza-regional-05-2016-gr-caj-cr",
+    "ordenanza-regional-05-2017-gr-caj-cr",
+    "ordenanza-regional-06-2015-gr-caj-cr",
+    "ordenanza-regional-06-2016-gr-caj-cr",
+    "ordenanza-regional-06-2017-gr-caj-cr",
+    "ordenanza-regional-07-2017-gr-caj-cr",
+    "ordenanza-regional-07-2018-gr-caj-cr",
+    "ordenanza-regional-08-2015-gr-caj-cr",
+    "ordenanza-regional-08-2016-gr-caj-cr",
+    "ordenanza-regional-09-2015-gr-caj-cr",
+    "ordenanza-regional-09-2016-gr-caj-cr",
+    "ordenanza-regional-09-2017-gr-caj-cr",
+    "ordenanza-regional-10-2017-gr-caj-cr",
+    "ordenanza-regional-13-2017-gr-caj-cr",
+    "ordenanza-regional-17-2017-gr-caj-cr"
+   ],
+   "sha256": "ba0c4c5894d6979d91e97b32838d847417ecd7c0be6b8bfecd7829f8f49fcba6"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-004-2007-grcaj-cr",
+    "ordenanza-regional-011-2011-gr-caj-cr",
+    "ordenanza-regional-017-2011-grcaj-cr",
+    "ordenanza-regional-018-2011-grcaj-cr",
+    "ordenanza-regional-021-2011-grcaj-cr",
+    "ordenanza-regional-022-2011-grcaj-cr"
+   ],
+   "sha256": "a9abdc40965f7baf9b84753944c87962d6252e7050bfbd1274418721ebf0ddc8"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-002-2015-gr-caj-cr",
+    "ordenanza-regional-004-2010-grcaj-cr",
+    "ordenanza-regional-015-2013-gr-caj-cr"
+   ],
+   "sha256": "c00b6486eb5519b7fa5bc66ee5ea6308570eabb584db2175651931ba32351138"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-03-2013-gr-caj-cr",
+    "ordenanza-regional-04-2013-gr-caj-cr",
+    "ordenanza-regional-05-2013-gr-caj-cr"
+   ],
+   "sha256": "46319db794e12aee4f9a7bb581dc7b2ebe2289a819d48ed57ec88f7ed8c736b4"
+  }
+ },
+ "schema": 1
+}
