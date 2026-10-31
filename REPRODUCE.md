@@ -204,20 +204,45 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-005-2011-grcaj-cr` | Ordenanza Regional N° 005-2011-GRCAJ-CR: Declaran de interés público la promoción del derecho a la salud y a la vida mediante acciones de prevención de las ITS y VIH SIDA en la Región Cajamarca 2011-2016 | 1 | 2011-05-27 to 2011-05-27 |
 | `ordenanza-regional-004-2011-grcaj-cr` | Ordenanza Regional N° 004-2011-GRCAJ-CR: Modifican la Ordenanza Regional N° 013-2005-GR-CAJ-CR, respecto a la conformación y nombre del Grupo Técnico Regional de Cambio Climático y Gestión de Riesgo de Cajamarca | 1 | 2011-05-27 to 2011-05-27 |
 | `ordenanza-regional-001-2011-grcaj-cr` | Ordenanza Regional N° 001-2011-GRCAJ-CR: Facultan al Presidente del Gobierno Regional de Cajamarca para que designe y cese a funcionarios de confianza de las Unidades de Gestión Educativa Local del Gobierno Regional de Cajamarca | 1 | 2011-03-10 to 2011-03-10 |
+| `ordenanza-regional-002-2011-grcaj-cr` | Ordenanza Regional N° 002-2011-GRCAJ-CR: Reconocen a la Comisión Ambiental Regional - CAR | 1 | 2011-03-10 to 2011-03-10 |
+| `ordenanza-regional-020-2010-grcaj-cr` | Ordenanza Regional N° 020-2010-GRCAJ-CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Agricultura Cajamarca | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-018-2010-grcaj-cr` | Ordenanza Regional N° 018-2010-GRCAJ-CR: Aprueban Zonificación Ecológica y Económica a nivel macro del departamento de Cajamarca como instrumento base para el ordenamiento y la planificación territorial | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-019-2010-grcaj-cr` | Ordenanza Regional N° 019-2010-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Agricultura Cajamarca | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-017-2010-grcaj-cr` | Ordenanza Regional N° 017-2010-GRCAJ-CR: Modifican la Ordenanza N° 016-2005-GR.CAJ-CR mediante la cual se creó el Grupo Técnico Regional de Gestión del Agua en el  departamento de Cajamarca | 1 | 2010-12-25 to 2010-12-25 |
+| `ordenanza-regional-016-2010-grcaj-cr` | Ordenanza Regional N° 016-2010-GRCAJ-CR: Aprueban Plan de Desarrollo Regional Concertado: Cajamarca 2021 | 1 | 2010-12-06 to 2010-12-06 |
+| `ordenanza-regional-014-2010-grcaj-cr` | Ordenanza Regional N° 014-2010-GRCAJ-CR: Crean el Centro Regional de Planeamiento Estratégico - CEPLAR | 1 | 2010-12-06 to 2010-12-06 |
+| `ordenanza-regional-015-2010-grcaj-cr` | Ordenanza Regional N° 015-2010-GRCAJ-CR: Crean el Consejo Regional de la Mujer - COREMU | 1 | 2010-12-06 to 2010-12-06 |
+| `ordenanza-regional-013-2010-grcaj-cr` | Ordenanza Regional N° 013-2010-GRCAJ-CR: Amplían plazo de funcionamiento de la Comisión de Reestructuración Orgánica y Reorganización Administrativa del Gobierno Regional de Cajamarca | 1 | 2010-12-06 to 2010-12-06 |
+| `ordenanza-regional-012-2010-grcaj-cr` | Ordenanza Regional N° 012-2010-GRCAJ-CR: Modifican Ordenanza N° 012-2005-GRCAJ-CR que declaró de prioridad regional el Proceso de Ordenamiento Territorial Regional | 1 | 2010-11-28 to 2010-11-28 |
+| `ordenanza-regional-010-2010-grcaj-cr` | Ordenanza Regional N° 010-2010-GRCAJ-CR: Aprueban el Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones de Cajamarca | 1 | 2010-10-09 to 2010-10-09 |
+| `ordenanza-regional-009-2010-grcaj-cr` | Ordenanza Regional N° 009-2010-GRCAJ-CR: Aprueban Cuadro de Asignación de Personal - CAP del Hospital Regional Cajamarca | 1 | 2010-09-04 to 2010-09-04 |
+| `ordenanza-regional-007-2010-grcaj-cr` | Ordenanza Regional N° 007-2010-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones - ROF del Hospital Regional Cajamarca | 1 | 2010-09-04 to 2010-09-04 |
+| `ordenanza-regional-006-2010-grcaj-cr` | Ordenanza Regional N° 006-2010-GRCAJ-CR: Incorporan procedimientos a cargo de la Dirección Regional de Comercio Exterior y Turismo en el TUPA del Gobierno Regional Cajamarca | 1 | 2010-09-04 to 2010-09-04 |
+| `ordenanza-regional-008-2010-grcaj-cr` | Ordenanza Regional N° 008-2010-GRCAJ-CR: Crean el Consejo Regional de la Juventud de Cajamarca - COREJU | 1 | 2010-09-04 to 2010-09-04 |
+| `ordenanza-regional-003-2010-grcaj-cr` | Ordenanza Regional N° 003-2010-GRCAJ-CR: Aprueban propuesta de "Políticas para la Acción Birregional en Materia de Bosques Húmedos en cuencas compartidas Cajamarca - Lambayeque" | 1 | 2010-04-13 to 2010-04-13 |
+| `ordenanza-regional-013-2009-grcaj-cr` | Ordenanza Regional N° 013-2009-GRCAJ/CR: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Cajamarca | 1 | 2010-01-17 to 2010-01-17 |
+| `ordenanza-regional-011-2009-grcaj-cr` | Ordenanza Regional N° 011-2009-GRCAJ-CR: Crean el Consejo Regional de Fomento Artesanal de Cajamarca (COREFARC) | 1 | 2009-12-31 to 2009-12-31 |
+| `ordenanza-regional-012-2009-grcaj-cr` | Ordenanza Regional N° 012-2009-GRCAJ-CR: Amplían plazo para la conclusión de la construcción del Plan de Desarrollo Regional Concertado - Cajamarca 2021, a que se refiere la Ordenanza N° 007-2009-GRCAJ-CR | 1 | 2010-01-01 to 2010-01-01 |
+| `ordenanza-regional-010-2009-grcaj-cr` | Ordenanza Regional N° 010-2009-GRCAJ-CR: Amplían plazo de funcionamiento de la Comisión de Reestructuración Orgánica y Reorganización Administrativa del Gobierno Regional de Cajamarca | 1 | 2009-11-29 to 2009-11-29 |
+| `ordenanza-regional-009-2009-grcaj-cr` | Ordenanza Regional N° 009-2009-GRCAJ-CR: Declaran de interés regional la adquisición de bienes y servicios ofertados por la MYPE, Asociaciones y Gremios de Productores, Empresas Comunales y Profesionales Independientes constituidos en la Región, por parte de las instituciones del Estado | 1 | 2009-10-30 to 2009-10-30 |
+| `ordenanza-regional-007-2009-grcaj-cr` | Ordenanza Regional N° 007-2009-GRCAJ-CR: Declaran de interés regional la construcción del "Plan de Desarrollo Regional Concertado - Cajamarca 2021" | 1 | 2009-08-06 to 2009-08-06 |
+| `ordenanza-regional-006-2009-grcaj-cr` | Ordenanza Regional N° 006-2009-GRCAJ-CR: Aprueban tasa e incorporan Procedimiento "Elevación de Observaciones a las Bases y emisión de Pronunciamiento" al TUPA del Gobierno Regional de Cajamarca | 1 | 2009-07-19 to 2009-07-19 |
+| `ordenanza-regional-004-2009-grcaj-cr` | Ordenanza Regional N° 004-2009-GRCAJ-CR: Incluyen relación de procedimientos administrativos de las Direcciones Regionales de Comercio Exterior y de Energía y Minas en el TUPA del Gobierno Regional Cajamarca | 1 | 2009-05-17 to 2009-05-17 |
+| `ordenanza-regional-005-2009-grcaj-cr` | Ordenanza Regional N° 005-2009-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones de PROREGION | 1 | 2009-05-17 to 2009-05-17 |
 
-The build made 187 commits:
+The build made 212 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 187 | first version of an act |
+| 212 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 187 laws in the record.
-- 374 tags.
+- 212 laws in the record.
+- 424 tags.
 
 ## Dates
 
@@ -229,7 +254,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ea1d2bce922f25893ef0024588ad1498e05cd16c0d11ef43cc84af765f48165e` (2263778 bytes).
+- Corpus: sha256 `7474205eb72c7c12e63ae185d3ce168ffdf4b8c680541d789ed01a07adfeeae0` (2548893 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

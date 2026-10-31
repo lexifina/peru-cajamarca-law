@@ -2618,6 +2618,356 @@
      "sha256": "8977d74341490418edcb84300360a23aa09456066a23b0bc5e126cb912adb5af"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2011-grcaj-cr",
+   "short": "Ordenanza Regional N° 002-2011-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 002-2011-GRCAJ-CR: Reconocen a la Comisión Ambiental Regional - CAR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/610550-2",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CPdgtU1n4u882DxQAB3Pg3/*/610550-3.pdf",
+     "sha256": "aa6762806c8c6b2386d4310851403d2d250405132f32752813268c4b19eb61f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 020-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 020-2010-GRCAJ-CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Agricultura Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/581290-4",
+   "versions": [
+    {
+     "from": "2010-12-25",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2MBBMUsbqxsBwV8iXrispJ/*/581290-4.pdf",
+     "sha256": "3e9818b9475b3867df0a22c2c99d0b796b2926545da86a4478229f9a9fa99294"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-018-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 018-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 018-2010-GRCAJ-CR: Aprueban Zonificación Ecológica y Económica a nivel macro del departamento de Cajamarca como instrumento base para el ordenamiento y la planificación territorial",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/581290-2",
+   "versions": [
+    {
+     "from": "2010-12-25",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CvFXUatZKlg9IX2Md39agP/*/581290-2.pdf",
+     "sha256": "6e36e8158e1fd12a988a6b05a1aa88b0cdbbe64471c97f4a6328a6f6634c53c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-019-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 019-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 019-2010-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Agricultura Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/581290-3",
+   "versions": [
+    {
+     "from": "2010-12-25",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/A9bN3rPHKuHAnuLhKwd8ma/*/581290-3.pdf",
+     "sha256": "e2cb9403efa2eef14c565d7f4845629cf1c479a566d4243e93d140d3a0f65278"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 017-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 017-2010-GRCAJ-CR: Modifican la Ordenanza N° 016-2005-GR.CAJ-CR mediante la cual se creó el Grupo Técnico Regional de Gestión del Agua en el  departamento de Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/581290-1",
+   "versions": [
+    {
+     "from": "2010-12-25",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7wd3Ya-mKM59UxPGlGo10J/*/581290-1.pdf",
+     "sha256": "7cd9e849412c01751f5a7b434dab4750ee580464b3ca10ba5e27fe6202ad7f8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 016-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 016-2010-GRCAJ-CR: Aprueban Plan de Desarrollo Regional Concertado: Cajamarca 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/573862-4",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1wyG7GQiahq8Q-GCgXovt_/*/573862-4.pdf",
+     "sha256": "f700125c5cabb89b2677e18f438649d4cede7f65cd10d8219865c0fbb473955f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 014-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 014-2010-GRCAJ-CR: Crean el Centro Regional de Planeamiento Estratégico - CEPLAR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/573862-2",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 18,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5Ay5Cm2KqGW8wEuka-TV38/*/573862-2.pdf",
+     "sha256": "affa7bddc802792a310c25ed60f44a4db4368de79fff542a0c56a491198f1064"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 015-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 015-2010-GRCAJ-CR: Crean el Consejo Regional de la Mujer - COREMU",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/573862-3",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4SnWENMz49M9kabvFNr2zb/*/573862-3.pdf",
+     "sha256": "4ccff8a8fe5dae421c98067d565efc87a72f1f9811fe782e0105d45b0f9d2f88"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-013-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 013-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 013-2010-GRCAJ-CR: Amplían plazo de funcionamiento de la Comisión de Reestructuración Orgánica y Reorganización Administrativa del Gobierno Regional de Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/573862-1",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6y0-Ak3U4zLA5zw6rNwFib/*/573862-1.pdf",
+     "sha256": "4a7706ac23c74cb4aedc0e8e06b956474f4354f18e7386058a408dfae0b399a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 012-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 012-2010-GRCAJ-CR: Modifican Ordenanza N° 012-2005-GRCAJ-CR que declaró de prioridad regional el Proceso de Ordenamiento Territorial Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/571183-1",
+   "versions": [
+    {
+     "from": "2010-11-28",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/00MoZFAjKyh9ZaV47Yg2eF/*/571183-1.pdf",
+     "sha256": "8768805cfac0f375bdb920f368da429b11e0e8510103247af10517782b6f1061"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 010-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 010-2010-GRCAJ-CR: Aprueban el Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones de Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/552464-1",
+   "versions": [
+    {
+     "from": "2010-10-09",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0qU6HwpCKyI9VK9QYHzfg9/*/552464-1.pdf",
+     "sha256": "f5633570267c2c2f11eeb58cc881baa99e0ce3697599d721517edbc07cd128ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 009-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 009-2010-GRCAJ-CR: Aprueban Cuadro de Asignación de Personal - CAP del Hospital Regional Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/537509-4",
+   "versions": [
+    {
+     "from": "2010-09-04",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1tPSITtuKn_A4TFUorTAnk/*/537509-4.pdf",
+     "sha256": "b3f9b92847bade3ae3af9b9b51fd1c2b06a269e891e50121654dc5b6d8f30703"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 007-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 007-2010-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones - ROF del Hospital Regional Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/537509-2",
+   "versions": [
+    {
+     "from": "2010-09-04",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F2g-2Kn9KFeARYkkoWBu3E/*/537509-2.pdf",
+     "sha256": "dfd7f74e95e326535ffb687f63e35aa7dc4921cd6ce17bc9e171c0bd569f49be"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 006-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 006-2010-GRCAJ-CR: Incorporan procedimientos a cargo de la Dirección Regional de Comercio Exterior y Turismo en el TUPA del Gobierno Regional Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/537509-1",
+   "versions": [
+    {
+     "from": "2010-09-04",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4Nog2_paa5g84UchiVsDrU/*/537509-1.pdf",
+     "sha256": "74275c53008bb1c2e54b96c6aa856a3f8a4259cd5249b631888ba8370cab7aed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 008-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 008-2010-GRCAJ-CR: Crean el Consejo Regional de la Juventud de Cajamarca - COREJU",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/537509-3",
+   "versions": [
+    {
+     "from": "2010-09-04",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FMCoCpk8KA-A4qRHcVkuTi/*/537509-3.pdf",
+     "sha256": "f2147873fde6578243ab70122549887a627c3b68fed5e46861018174f1241019"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2010-grcaj-cr",
+   "short": "Ordenanza Regional N° 003-2010-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 003-2010-GRCAJ-CR: Aprueban propuesta de \"Políticas para la Acción Birregional en Materia de Bosques Húmedos en cuencas compartidas Cajamarca - Lambayeque\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/478671-1",
+   "versions": [
+    {
+     "from": "2010-04-13",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3YeMVJq7qNg9PSnbV8AQ8d/*/478671-1.pdf",
+     "sha256": "ba80cebc5e6b70a8ef587e208dce60c67969ccd61937d813e561c7d5d704da19"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-013-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 013-2009-GRCAJ/CR",
+   "title": "Ordenanza Regional N° 013-2009-GRCAJ/CR: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/446161-1",
+   "versions": [
+    {
+     "from": "2010-01-17",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D0ihrkdnKF5BSXI4KVBtcV/*/446161-1.pdf",
+     "sha256": "caef2a89f11bd0620cf244b64b693050c8dbddf461c48bd812cb07282f7fd618"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 011-2009-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 011-2009-GRCAJ-CR: Crean el Consejo Regional de Fomento Artesanal de Cajamarca (COREFARC)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/439590-1",
+   "versions": [
+    {
+     "from": "2009-12-31",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2Z9hJu8N4OjAL6HQ0PQdBA/*/439590-1.pdf",
+     "sha256": "1b25a7e13ba5741d5f4380121523ae18b2a8ae182f53513553d181f9389f0572"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 012-2009-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 012-2009-GRCAJ-CR: Amplían plazo para la conclusión de la construcción del Plan de Desarrollo Regional Concertado - Cajamarca 2021, a que se refiere la Ordenanza N° 007-2009-GRCAJ-CR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/439588-1",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E6BK4KCW4nU9v_dKaCChqT/*/439588-1.pdf",
+     "sha256": "88b4ba0106d18931f7aa734709111822e1604ac43573bb95c00b62465c1f492f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 010-2009-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 010-2009-GRCAJ-CR: Amplían plazo de funcionamiento de la Comisión de Reestructuración Orgánica y Reorganización Administrativa del Gobierno Regional de Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/428113-1",
+   "versions": [
+    {
+     "from": "2009-11-29",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9ukipsKmaMyA8KF_KmhDEU/*/428113-1.pdf",
+     "sha256": "13f2cc2718fad50d54d68d48c654c1b7aba984bbf0b42a90edd4d2d27cc03c25"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 009-2009-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 009-2009-GRCAJ-CR: Declaran de interés regional la adquisición de bienes y servicios ofertados por la MYPE, Asociaciones y Gremios de Productores, Empresas Comunales y Profesionales Independientes constituidos en la Región, por parte de las instituciones del Estado",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/414777-1",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/44bu9uYvazv98Q_PHvM0SG/*/414777-3.pdf",
+     "sha256": "325b5e941c7cb61bcf13be8463b32e34ee1ed66173f69a4d410ae390c9765688"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 007-2009-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 007-2009-GRCAJ-CR: Declaran de interés regional la construcción del \"Plan de Desarrollo Regional Concertado - Cajamarca 2021\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/378938-1",
+   "versions": [
+    {
+     "from": "2009-08-06",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0Gn5Q7iBqoKBtclNkGFU5s/*/378938-1.pdf",
+     "sha256": "fc8c6863ccddaa06273eb0ecd6b2654bf55c583c0756e96f92823c1c8c35dc78"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 006-2009-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 006-2009-GRCAJ-CR: Aprueban tasa e incorporan Procedimiento \"Elevación de Observaciones a las Bases y emisión de Pronunciamiento\" al TUPA del Gobierno Regional de Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/373515-1",
+   "versions": [
+    {
+     "from": "2009-07-19",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Fm3MMVMkKdT8AG6F0-a8LG/*/373515-1.pdf",
+     "sha256": "2d0098a7e1f1641844383756b57f3e8ba725b0d4f0b4b8cce9ca04a0543d0f51"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 004-2009-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 004-2009-GRCAJ-CR: Incluyen relación de procedimientos administrativos de las Direcciones Regionales de Comercio Exterior y de Energía y Minas en el TUPA del Gobierno Regional Cajamarca",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/348224-1",
+   "versions": [
+    {
+     "from": "2009-05-17",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8DDF8sQO41c9BjS_7tf8-B/*/348224-1.pdf",
+     "sha256": "f01344296d07e1739af8829741e2ba7b6f36387ca70fddb500a350b5f9b6b3b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2009-grcaj-cr",
+   "short": "Ordenanza Regional N° 005-2009-GRCAJ-CR",
+   "title": "Ordenanza Regional N° 005-2009-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones de PROREGION",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/348224-2",
+   "versions": [
+    {
+     "from": "2009-05-17",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8skzilevaHKB89UXCgA5Xc/*/348224-2.pdf",
+     "sha256": "64388a1fb7106291dfdf929efe0c883dd443faa987f52f6f9a181d94ef51e63f"
+    }
+   ]
   }
  ]
 }

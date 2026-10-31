@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-187 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+212 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -199,6 +199,31 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-005-2011-grcaj-cr/` | Ordenanza Regional N° 005-2011-GRCAJ-CR: Declaran de interés público la promoción del derecho a la salud y a la vida mediante acciones de prevención de las ITS … | in force 27 May 2011 |
 | `ordenanza-regional-004-2011-grcaj-cr/` | Ordenanza Regional N° 004-2011-GRCAJ-CR: Modifican la Ordenanza Regional N° 013-2005-GR-CAJ-CR, respecto a la conformación y nombre del Grupo Técnico Regional d… | in force 27 May 2011 |
 | `ordenanza-regional-001-2011-grcaj-cr/` | Ordenanza Regional N° 001-2011-GRCAJ-CR: Facultan al Presidente del Gobierno Regional de Cajamarca para que designe y cese a funcionarios de confianza de las Un… | in force 10 March 2011 |
+| `ordenanza-regional-002-2011-grcaj-cr/` | Ordenanza Regional N° 002-2011-GRCAJ-CR: Reconocen a la Comisión Ambiental Regional - CAR | in force 10 March 2011 |
+| `ordenanza-regional-020-2010-grcaj-cr/` | Ordenanza Regional N° 020-2010-GRCAJ-CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Agricultura Cajamarca | in force 25 December 2010 |
+| `ordenanza-regional-018-2010-grcaj-cr/` | Ordenanza Regional N° 018-2010-GRCAJ-CR: Aprueban Zonificación Ecológica y Económica a nivel macro del departamento de Cajamarca como instrumento base para el o… | in force 25 December 2010 |
+| `ordenanza-regional-019-2010-grcaj-cr/` | Ordenanza Regional N° 019-2010-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Agricultura Cajamarca | in force 25 December 2010 |
+| `ordenanza-regional-017-2010-grcaj-cr/` | Ordenanza Regional N° 017-2010-GRCAJ-CR: Modifican la Ordenanza N° 016-2005-GR.CAJ-CR mediante la cual se creó el Grupo Técnico Regional de Gestión del Agua en … | in force 25 December 2010 |
+| `ordenanza-regional-016-2010-grcaj-cr/` | Ordenanza Regional N° 016-2010-GRCAJ-CR: Aprueban Plan de Desarrollo Regional Concertado: Cajamarca 2021 | in force 6 December 2010 |
+| `ordenanza-regional-014-2010-grcaj-cr/` | Ordenanza Regional N° 014-2010-GRCAJ-CR: Crean el Centro Regional de Planeamiento Estratégico - CEPLAR | in force 6 December 2010 |
+| `ordenanza-regional-015-2010-grcaj-cr/` | Ordenanza Regional N° 015-2010-GRCAJ-CR: Crean el Consejo Regional de la Mujer - COREMU | in force 6 December 2010 |
+| `ordenanza-regional-013-2010-grcaj-cr/` | Ordenanza Regional N° 013-2010-GRCAJ-CR: Amplían plazo de funcionamiento de la Comisión de Reestructuración Orgánica y Reorganización Administrativa del Gobiern… | in force 6 December 2010 |
+| `ordenanza-regional-012-2010-grcaj-cr/` | Ordenanza Regional N° 012-2010-GRCAJ-CR: Modifican Ordenanza N° 012-2005-GRCAJ-CR que declaró de prioridad regional el Proceso de Ordenamiento Territorial Regio… | in force 28 November 2010 |
+| `ordenanza-regional-010-2010-grcaj-cr/` | Ordenanza Regional N° 010-2010-GRCAJ-CR: Aprueban el Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones de Cajamarc… | in force 9 October 2010 |
+| `ordenanza-regional-009-2010-grcaj-cr/` | Ordenanza Regional N° 009-2010-GRCAJ-CR: Aprueban Cuadro de Asignación de Personal - CAP del Hospital Regional Cajamarca | in force 4 September 2010 |
+| `ordenanza-regional-007-2010-grcaj-cr/` | Ordenanza Regional N° 007-2010-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones - ROF del Hospital Regional Cajamarca | in force 4 September 2010 |
+| `ordenanza-regional-006-2010-grcaj-cr/` | Ordenanza Regional N° 006-2010-GRCAJ-CR: Incorporan procedimientos a cargo de la Dirección Regional de Comercio Exterior y Turismo en el TUPA del Gobierno Regio… | in force 4 September 2010 |
+| `ordenanza-regional-008-2010-grcaj-cr/` | Ordenanza Regional N° 008-2010-GRCAJ-CR: Crean el Consejo Regional de la Juventud de Cajamarca - COREJU | in force 4 September 2010 |
+| `ordenanza-regional-003-2010-grcaj-cr/` | Ordenanza Regional N° 003-2010-GRCAJ-CR: Aprueban propuesta de "Políticas para la Acción Birregional en Materia de Bosques Húmedos en cuencas compartidas Cajama… | in force 13 April 2010 |
+| `ordenanza-regional-013-2009-grcaj-cr/` | Ordenanza Regional N° 013-2009-GRCAJ/CR: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Cajamarca | in force 17 January 2010 |
+| `ordenanza-regional-011-2009-grcaj-cr/` | Ordenanza Regional N° 011-2009-GRCAJ-CR: Crean el Consejo Regional de Fomento Artesanal de Cajamarca (COREFARC) | in force 31 December 2009 |
+| `ordenanza-regional-012-2009-grcaj-cr/` | Ordenanza Regional N° 012-2009-GRCAJ-CR: Amplían plazo para la conclusión de la construcción del Plan de Desarrollo Regional Concertado - Cajamarca 2021, a que … | in force 1 January 2010 |
+| `ordenanza-regional-010-2009-grcaj-cr/` | Ordenanza Regional N° 010-2009-GRCAJ-CR: Amplían plazo de funcionamiento de la Comisión de Reestructuración Orgánica y Reorganización Administrativa del Gobiern… | in force 29 November 2009 |
+| `ordenanza-regional-009-2009-grcaj-cr/` | Ordenanza Regional N° 009-2009-GRCAJ-CR: Declaran de interés regional la adquisición de bienes y servicios ofertados por la MYPE, Asociaciones y Gremios de Prod… | in force 30 October 2009 |
+| `ordenanza-regional-007-2009-grcaj-cr/` | Ordenanza Regional N° 007-2009-GRCAJ-CR: Declaran de interés regional la construcción del "Plan de Desarrollo Regional Concertado - Cajamarca 2021" | in force 6 August 2009 |
+| `ordenanza-regional-006-2009-grcaj-cr/` | Ordenanza Regional N° 006-2009-GRCAJ-CR: Aprueban tasa e incorporan Procedimiento "Elevación de Observaciones a las Bases y emisión de Pronunciamiento" al TUPA … | in force 19 July 2009 |
+| `ordenanza-regional-004-2009-grcaj-cr/` | Ordenanza Regional N° 004-2009-GRCAJ-CR: Incluyen relación de procedimientos administrativos de las Direcciones Regionales de Comercio Exterior y de Energía y M… | in force 17 May 2009 |
+| `ordenanza-regional-005-2009-grcaj-cr/` | Ordenanza Regional N° 005-2009-GRCAJ-CR: Aprueban Reglamento de Organización y Funciones de PROREGION | in force 17 May 2009 |
 
 ## Source
 
