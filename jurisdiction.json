@@ -1,0 +1,11 @@
+{
+  "path": "pe-caj",
+  "code": "PE-CAJ",
+  "name": "Cajamarca",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-cajamarca-law",
+  "build": "built: 117 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
